@@ -1,0 +1,17 @@
+.my-6{
+  margin-top: 5rem !important;
+  margin-bottom: 5rem !important;
+}
+.middle {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.Y{
+  z-index: 2;
+  
+  border-radius: 20px;
+  text-align: left !important;
+  max-width: 50%;
+}
